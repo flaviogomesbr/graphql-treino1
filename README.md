@@ -11,3 +11,4 @@ https://medium.com/swlh/build-and-deploy-a-scalable-graphql-api-d912df6b7c28
 yarn install
 yarn start
 ```
+# graphql-treino1
