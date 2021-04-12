@@ -1,0 +1,34 @@
+mutation createPodcast {
+  createPodcast(input: {
+    url: "test.net",
+    name: "test"
+  }){
+    id
+    name
+    url
+  }
+}
+
+mutation updatePodcast {
+  updatePodcast(id:"6074553828dcad31a860c059", input: {
+    url: "test.net.com",
+    name: "test5"
+  }){
+    id
+    url
+  }
+}
+
+mutation deletePodcast {
+  deletePodcast(id:"6074553828dcad31a860c059"){
+    id
+  }
+}
+  
+query podcasts {
+	podcasts {
+    id
+    name
+    url
+  }
+}
