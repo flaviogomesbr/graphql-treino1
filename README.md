@@ -10,7 +10,7 @@ yarn start
 ## See in your browser offline
 
 ```
-Após executar os comandos acima, acessar http://localhost:4000/
+Após executar os comandos acima, acessar a url http://localhost:4000/
 
 ```
 
