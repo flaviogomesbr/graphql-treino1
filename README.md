@@ -7,6 +7,9 @@ yarn install
 yarn start
 ```
 
+## See in your browser offline
+<a href="http://localhost:4000/" target="_blank">Após executar os comandos acima, acessar o link indicado </a>
+
 ## See in Heroku:
 <a href="https://graphql-test-one-one.herokuapp.com/" target="_blank">Heroku 'graphql-treino1' GraphQL + MongoDB + Nodejs - Podcast </a>
 
