@@ -7,7 +7,7 @@ yarn install
 yarn start
 ```
 
-## See in your browser offline
+## See in your offline browser 
 
 ```
 Após executar os comandos acima, acessar a url http://localhost:4000/
